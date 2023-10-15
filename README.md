@@ -1,1 +1,3 @@
-# Git-FALL2023
+# Git Demo: Kevin Song
+
+Actually learning Git!
