@@ -2,4 +2,4 @@
 
 Actually learning Git!
 
-Gonna learn some kool stuff
+Gonna learn some kool stuff!
